@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Jahirul Islam. Currently working as a Software Engineer at Fiftytwo Digital Ltd.
 
 <!--
 **j-a-h-i-r/j-a-h-i-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
