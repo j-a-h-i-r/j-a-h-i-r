@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jahirul Islam. Currently working as a Software Engineer at Fiftytwo Digital Ltd.
+I'm Jahirul Islam. Currently working full time on EdTech products.
 
 I am a Full Stack Developer and mainly work with JS stack (`NodeJS`, `Angular`). I have some `Python` and `Java` experience too.
 
