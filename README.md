@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm Jahirul Islam. Currently working full time on EdTech products.
+I'm Jahirul Islam. Currently working on large scale logs processing @aws
 
-I am a Full Stack Developer and mainly work with JS stack (`NodeJS`, `Angular`). I have some `Python` and `Java` experience too.
+I am mostly a back-end developer and I have experience of working with a host of languages and technologies. I enjoy some occasional front-end development as well!
 
-I like solving problems and working with new technologies. Most recently I am working with `Kafka` to build data processing pipelines.
+I like solving problems and working with new technologies.
 
 <!--
 **j-a-h-i-r/j-a-h-i-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
