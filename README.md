@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jahirul Islam. Currently working on large scale logs processing @aws
+I'm Jahirul Islam.
 
 I am mostly a back-end developer and I have experience of working with a host of languages and technologies. I enjoy some occasional front-end development as well!
 
